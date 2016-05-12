@@ -3,7 +3,7 @@ HTML-Minimal-Responsive-Menu
 
 Minimal Responsive Menu Template
 
-[DEMO](http://lyubendimitrov.me/HTML-Minimal-Responsive-Menu/ "Demo link")
+[DEMO](http://ldimitrov.github.io/HTML-Minimal-Responsive-Menu/ "Demo link")
 
 Wide:
 
